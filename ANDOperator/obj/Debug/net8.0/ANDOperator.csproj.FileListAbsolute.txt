@@ -1,0 +1,14 @@
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net8.0\ANDOperator.exe
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net8.0\ANDOperator.deps.json
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net8.0\ANDOperator.runtimeconfig.json
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net8.0\ANDOperator.dll
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net8.0\ANDOperator.pdb
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.AssemblyInfoInputs.cache
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.AssemblyInfo.cs
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.csproj.CoreCompileInputs.cache
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.dll
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\refint\ANDOperator.dll
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.pdb
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.genruntimeconfig.cache
+C:\Users\alexr\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ref\ANDOperator.dll
